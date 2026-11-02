@@ -1,6 +1,6 @@
 # TaloKit 功能地图
 
-本文按使用场景介绍 TaloKit 的主要工具，便于搜索“离线开发工具”“程序员工具箱”“JSON 格式化”“Kubernetes YAML 生成”等需求时快速判断是否匹配。具体能力以当前公开版本客户端为准。
+本文按使用场景介绍 TaloKit 的主要工具，帮助你从接口调试、配置检查、SQL 阅读和文件对比等日常任务找到合适的工作流。具体能力以当前公开版本客户端为准。
 
 ## 格式化与结构化数据
 
@@ -74,3 +74,5 @@ IP 归属查询、WebSocket 和用户指定的网络目标需要联网。
 - Helm Chart/values 模板和命令参考。
 
 命令知识库不会自动执行命令。应用前必须理解目标环境、权限和风险。
+
+[实用教程](tutorials.md) · [快速开始](getting-started.md) · [官方下载](https://www.talokit.com/#downloads) · [隐私说明](privacy.md) · [问题反馈](https://github.com/maningphp/talokit/issues)

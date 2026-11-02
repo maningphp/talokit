@@ -1,10 +1,10 @@
-# TaloKit
+# TaloKit · 离线优先的跨平台开发者工具箱
 
 <p align="center">
   <img src="assets/talokit-icon.svg" width="82" height="82" alt="TaloKit 开发者工具箱图标">
 </p>
 
-<p align="center"><strong>离线优先的跨平台开发者工具箱</strong></p>
+<p align="center"><strong>常用开发工具，一次打开，本地处理。</strong></p>
 
 <p align="center">
   JSON、YAML、Base64、Hash、SQL、Diff、Docker、Kubernetes 等常用开发工具，集中在一个 Windows、macOS 和 Linux 桌面应用中。
@@ -13,6 +13,9 @@
 <p align="center">
   <a href="https://www.talokit.com/">官方网站</a> ·
   <a href="https://www.talokit.com/#downloads">下载 TaloKit</a> ·
+  <a href="docs/features.md">功能介绍</a> ·
+  <a href="docs/getting-started.md">快速开始</a> ·
+  <a href="https://github.com/maningphp/talokit/issues">问题反馈</a> ·
   <a href="https://www.talokit.com/en/">English Website</a> ·
   <a href="README.en.md">English README</a> ·
   <a href="https://www.talokit.com/contact/">联系与反馈</a>
@@ -26,6 +29,12 @@
 </p>
 
 > 本仓库是 TaloKit 的公开产品介绍、使用文档和反馈入口，不包含应用源码。安装包仅从 [TaloKit 官网下载页](https://www.talokit.com/#downloads) 获取。
+
+**正在寻找最新版？** [获取官网最新安装包](https://www.talokit.com/#downloads) · [GitHub Release 入口](https://github.com/maningphp/talokit/releases) · [下载校验与更新说明](docs/downloads.md)。本仓库不自动同步客户端版本；Release 中若暂无发布记录，请以官网下载区为准。
+
+## 软件实景
+
+以下均为已有官方产品截图，供了解工作流；界面细节以当前发布版为准。[JSON 格式化示例](docs/json-and-base64.md)和下方专题展示对应的工具界面。
 
 ![TaloKit 本地优先跨平台开发者工具箱界面](assets/talokit-preview.png)
 
@@ -99,6 +108,8 @@
 | Pro 年度版 | 高频专业使用 | 全部专业工具及订阅期内新增专业能力 |
 | Pro 永久版 | 长期使用 | 当前及约定范围内的专业功能 |
 
+专业功能主要包括 **Kubernetes 与容器运维工具、SQL 专业工具、文本/文件与目录 Diff**；JSON、YAML 基础格式化、Base64、Hash 等常用本地工具属于免费工具范围。具体可用项以当前发布版和官网授权说明为准。专业功能激活和许可证刷新需要联网，离线授权有效期以客户端显示为准。
+
 价格和活动以 [官方网站](https://www.talokit.com/#pricing) 实时展示为准。一个账号可按当前授权规则管理设备；账号、支付、许可证和更新检查需要联网。
 
 ## 本地优先，不等于所有功能绝不联网
@@ -137,6 +148,7 @@ TaloKit 是商业桌面软件。本仓库用于产品介绍、公开使用文档
 - [快速开始与安装](docs/getting-started.md)
 - [完整功能地图](docs/features.md)
 - [JSON、YAML 与 Base64 示例](docs/json-and-base64.md)
+- [实用教程索引与后续计划](docs/tutorials.md)
 - [Kubernetes YAML 工作台](docs/kubernetes-yaml.md)
 - [容器命令知识库](docs/container-command-library.md)
 - [SQL 与 Diff 工具](docs/sql-and-diff.md)

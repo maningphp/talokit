@@ -34,3 +34,7 @@ TaloKit Kubernetes YAML 工作台面向需要快速起草、检查和学习 Kube
 静态校验不能完整模拟 API Server、CRD Schema、准入控制器、云厂商扩展或组织策略。生成结果不是“保证可以直接上线”的证明。正式应用前建议执行对应版本的服务端 dry-run、策略检查和变更评审。
 
 命令知识库只提供命令说明和复制，不自动执行 kubectl 命令。
+
+## 继续阅读
+
+[JSON / YAML 基础示例](json-and-base64.md) · [教程计划](tutorials.md) · [完整功能地图](features.md) · [官方下载](https://www.talokit.com/#downloads) · [隐私说明](privacy.md) · [问题反馈](https://github.com/maningphp/talokit/issues)

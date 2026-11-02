@@ -26,3 +26,7 @@ TaloKit 支持 MySQL、PostgreSQL、SQLite 和 SQL Server 常用方言。可格�
 目录模式分别展示左右目录树，标记仅左侧、仅右侧、内容不同和相同文件。打开差异文件后可在独立比较界面处理内容，返回目录视图刷新状态。
 
 覆盖文件前应确认目标路径和方向。重要目录建议先备份，尤其是批量处理配置和脚本时。
+
+## 继续阅读
+
+[SQL / Diff 教程计划](tutorials.md) · [完整功能地图](features.md) · [安装说明](getting-started.md) · [官方下载](https://www.talokit.com/#downloads) · [隐私说明](privacy.md) · [问题反馈](https://github.com/maningphp/talokit/issues)

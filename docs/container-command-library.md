@@ -30,3 +30,7 @@ TaloKit 不执行知识库中的命令。删除、强制覆盖、清理、权限
 2. 参数占位符已替换；
 3. 命令与实际软件版本兼容；
 4. 写操作、删除操作已有备份或回滚方案。
+
+## 继续阅读
+
+[Kubernetes YAML 工作台](kubernetes-yaml.md) · [Docker / ctr 教程计划](tutorials.md) · [完整功能地图](features.md) · [官方下载](https://www.talokit.com/#downloads) · [问题反馈](https://github.com/maningphp/talokit/issues)

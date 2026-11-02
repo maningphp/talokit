@@ -37,3 +37,9 @@ sha256sum TaloKit-安装包文件名.AppImage
 ## 更新
 
 TaloKit 每次启动时检查是否存在新版；只有发现更新时才提示。更新包仍来自官方发布地址。需要保留旧版本时，可自行归档安装包和对应 SHA-256，但官网默认只提供最新版本。
+
+## GitHub Release 入口与版本来源
+
+[本仓库 Releases](https://github.com/maningphp/talokit/releases) 是公开发布说明的入口，不等于官网安装包镜像。若暂无发布记录，或记录中没有安装包，请直接前往 [官网最新下载区](https://www.talokit.com/#downloads)。不要把本仓库文档提交时间、Tag 或 README 内容当作当前客户端版本号。
+
+[安装说明](getting-started.md) · [常见问题](faq.md) · [反馈入口](https://github.com/maningphp/talokit/issues) · [官方网站](https://www.talokit.com/)
