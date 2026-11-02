@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 账号、订单、支付与许可证支持
+    url: https://www.talokit.com/contact/
+    about: 涉及隐私或交易信息时，请使用官网联系渠道，不要公开提交。
+  - name: 官方下载
+    url: https://www.talokit.com/#downloads
+    about: 获取 Windows、macOS 和 Linux 最新安装包。

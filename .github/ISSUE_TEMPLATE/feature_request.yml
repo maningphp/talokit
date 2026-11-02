@@ -1,0 +1,37 @@
+name: 功能建议
+description: 建议新的开发工具、规则、命令或工作流
+title: "[Feature] "
+labels: ["enhancement", "needs-triage"]
+body:
+  - type: input
+    id: scenario
+    attributes:
+      label: 使用场景
+      placeholder: 你在什么工作中需要它？
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 当前问题
+      description: 描述现有流程为什么慢、容易出错或不方便。
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: 建议方案
+      description: 可包含输入、输出、版本差异和期望交互。
+    validations:
+      required: true
+  - type: textarea
+    id: examples
+    attributes:
+      label: 脱敏示例或参考资料
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: 数据确认
+      options:
+        - label: 示例中不含密码、令牌、私钥、客户数据或生产配置。
+          required: true
